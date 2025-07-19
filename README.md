@@ -1,25 +1,57 @@
-# 👋 Hey, I’m Saqib Semab!
+👋 Hey, I’m Saqib Semab  
+💻 Red Teamer | Penetration Tester | DFIR Specialist | Cyber Copy Strategist  
 
-## 🚀 Cybersecurity Expert | SOC Analyst | DFIR Specialist | Technical Sales Copy Strategist
+I don’t just defend — I break in first.  
+From simulating real-world breaches to tracing malware across compromised endpoints, I work at the intersection of offensive security and technical storytelling.
 
-With a strong background in cybersecurity and technical sales copywriting, I specialize in **defending organizations against cyber threats** while also **enhancing business solutions through persuasive copy**.
+Whether it’s running a stealthy red team op or crafting copy that converts technical chaos into business clarity — I do both with precision.
 
-### 🔥 Areas of Expertise:
-- **Incident Response (DFIR)**: Detecting, responding, and recovering from complex cyber incidents.
-- **SOC Operations**: Providing 24/7 defense with advanced threat monitoring tools like Wireshark, tcpdump, and more.
-- **Malware Analysis**: Using tools and techniques to detect, analyze, and mitigate malware.
-- **Cloud Security**: Implementing secure cloud solutions on AWS and Azure.
-- **Endpoint Security**: Expert in MDM, firewalls, VPNs, and Zero Trust Security models.
-- **Sales Copywriting**: Crafting high-converting copy that blends technical precision with business impact.
+---
 
-### 🔗 Find me on:
-- [LinkedIn](https://www.linkedin.com/in/saqibsemab)  
-- [Twitter](https://twitter.com/yourusername)  
-- [Personal Website](https://yourwebsite.com)
+🔥 **Areas of Expertise**:
 
-### 💼 Projects & Repos:
-- **SOC Playbooks**: A collection of incident response playbooks for various scenarios.
-- **Malware Analysis Scripts**: Python-based tools for analyzing malicious code.
-- **Cloud Security Configurations**: Pre-configured templates for AWS & Azure best practices.
+🛡️ **Red Teaming & Pentesting**  
+- Simulated attacks, real vulnerabilities  
+- Infrastructure, web app, and social engineering exploits  
+- TryHackMe, HackTheBox, and real-world client pentests
 
-Let’s collaborate on **cybersecurity solutions** and **business growth strategies**. 
+⚔️ **Digital Forensics & Incident Response (DFIR)**  
+- Root cause analysis, threat hunting, and recovery  
+- Wireshark, TCPdump, Volatility, OSINT
+
+☁️ **Cloud & Endpoint Security**  
+- AWS & Azure secure configuration  
+- Zero Trust, MDM, VPNs, Firewalls, IDPS
+
+🧠 **Malware Analysis**  
+- Static & dynamic reverse engineering  
+- Scripting with Python, Regex, Bash
+
+✍️ **Technical Sales Copywriting**  
+- Cybersecurity landing pages, email sequences, & content that sells  
+- Turning features into benefits that non-tech buyers understand
+
+---
+
+📁 **Projects & War Logs**:
+
+- [CTF-Warlogs Repo](https://github.com/Semabsaqib/ctf-warlogs) – My hacker journal: CTFs, red team ops, payloads, POCs  
+- SOC Playbooks – Live threat response frameworks  
+- Cloud Security Templates – Hardened AWS & Azure setups  
+- Malware Analysis Scripts – Python tools for reversing malicious code
+
+---
+
+🔗 **Let’s Connect**  
+[LinkedIn](https://www.linkedin.com/in/semabsaqib) | [Instagram](https://instagram.com/princesannityy) | [ZeroTrustedd Hub](https://linktr.ee/princesannityy)
+
+💬 Open to:  
+✅ Freelance pentesting & red teaming  
+✅ DFIR/Incident Response contracts  
+✅ Copywriting for cybersecurity startups  
+✅ Talks, collabs, and challenges
+
+---
+
+> "Cybersecurity is war — and I fight it from both sides of the screen."
+
