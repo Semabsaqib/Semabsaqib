@@ -1,57 +1,61 @@
-👋 Hey, I’m Saqib Semab  
-💻 Red Teamer | Penetration Tester | DFIR Specialist | Cyber Copy Strategist  
+# 👾 Just my mind, a secure line… and a laptop.
 
-I don’t just defend — I break in first.  
-From simulating real-world breaches to tracing malware across compromised endpoints, I work at the intersection of offensive security and technical storytelling.
-
-Whether it’s running a stealthy red team op or crafting copy that converts technical chaos into business clarity — I do both with precision.
-
----
-
-🔥 **Areas of Expertise**:
-
-🛡️ **Red Teaming & Pentesting**  
-- Simulated attacks, real vulnerabilities  
-- Infrastructure, web app, and social engineering exploits  
-- TryHackMe, HackTheBox, and real-world client pentests
-
-⚔️ **Digital Forensics & Incident Response (DFIR)**  
-- Root cause analysis, threat hunting, and recovery  
-- Wireshark, TCPdump, Volatility, OSINT
-
-☁️ **Cloud & Endpoint Security**  
-- AWS & Azure secure configuration  
-- Zero Trust, MDM, VPNs, Firewalls, IDPS
-
-🧠 **Malware Analysis**  
-- Static & dynamic reverse engineering  
-- Scripting with Python, Regex, Bash
-
-✍️ **Technical Sales Copywriting**  
-- Cybersecurity landing pages, email sequences, & content that sells  
-- Turning features into benefits that non-tech buyers understand
+I'm not here to play CTFs for fun (okay, maybe a little).  
+I break systems before real hackers can.  
+I hunt bugs like bounty.  
+And I build warlogs that speak louder than words.
 
 ---
 
-📁 **Projects & War Logs**:
+## 🎯 Who Am I?
 
-- [CTF-Warlogs Repo](https://github.com/Semabsaqib/ctf-warlogs) – My hacker journal: CTFs, red team ops, payloads, POCs  
-- SOC Playbooks – Live threat response frameworks  
-- Cloud Security Templates – Hardened AWS & Azure setups  
-- Malware Analysis Scripts – Python tools for reversing malicious code
+**Saqib Semab**  
+🛠️ Red Teamer | 🐚 Penetration Tester | 🧠 DFIR Specialist | ✍️ Cyber Copywriter  
 
----
-
-🔗 **Let’s Connect**  
-[LinkedIn](https://www.linkedin.com/in/semabsaqib) | [Instagram](https://instagram.com/princesannityy) | [ZeroTrustedd Hub](https://linktr.ee/princesannityy)
-
-💬 Open to:  
-✅ Freelance pentesting & red teaming  
-✅ DFIR/Incident Response contracts  
-✅ Copywriting for cybersecurity startups  
-✅ Talks, collabs, and challenges
+A cybersecurity professional who **thinks like an attacker** —  
+because that’s exactly what I do.
 
 ---
 
-> "Cybersecurity is war — and I fight it from both sides of the screen."
+## ⚔️ What I Actually Do
+
+- **Red Teaming & Pentesting** – Simulate real-world breaches. Break in. Expose the soft spots before attackers do.  
+- **DFIR & Threat Hunting** – Respond fast. Analyze smarter. Lock down your systems post-breach.  
+- **Cyber Copywriting** – Translate complex tech into copy that builds trust and sells security.
+
+---
+
+## 🧠 Why It Matters
+
+In a world where the next breach is always around the corner…  
+You need people who understand **how attacks happen — and how to stop them.**  
+And if you’re building a security product?  
+You also need someone who can **sell it with sharp, strategic messaging** that cuts through the noise.
+
+That’s where I come in.
+
+---
+
+## 🗂️ My Repos = My Arsenal
+
+👾 [`ctf-warlogs`](https://github.com/Semabsaqib/ctf-warlogs) – Payloads. Exploits. Full-spectrum recon & writeups.  
+🔐 `soc-playbooks` – Live response guides built from real-world scenarios.  
+🧪 `malware-scripts` – Python tools for analysis, sandboxing, and reversing.  
+☁️ `cloud-sec-templates` – Secure-by-default AWS & Azure setups.
+
+> Every commit is a war story. Every repo is a piece of the puzzle.
+
+---
+
+## 🔗 Connect with Me
+
+📩 **Email**: [sbseemab11@gmail.com](mailto:sbseemab11@gmail.com)  
+🌐 **All My Links**: [linktr.ee/princesannityy](https://linktr.ee/princesannityy)  
+📸 **IG**: [@princesannityy](https://instagram.com/princesannityy)
+
+---
+
+> _"I'm a full-time dream chaser & systems breaker... because I am a bug."_
+
+---
 
